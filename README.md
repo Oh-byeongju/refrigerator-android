@@ -17,7 +17,7 @@
 #### `SERVER`
 - Python
 - MySQL
-- TCP/IP 소켓통신 
+- TCP/IP 소켓통신
 
 #### `API`
 - 바코드 스캐너 API
